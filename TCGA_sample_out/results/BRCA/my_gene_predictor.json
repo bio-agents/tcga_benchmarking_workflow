@@ -1,26 +1,3 @@
-[
-    {
-        "_id": "TCGA:BRCA_TPR_my_gene_predictor_A",
-        "challenge_id": "BRCA",
-        "community_id": "TCGA",
-        "metrics": {
-            "metric_id": "TPR",
-            "stderr": 0,
-            "value": 0.4375
-        },
-        "participant_id": "my_gene_predictor",
-        "type": "assessment"
-    },
-    {
-        "_id": "TCGA:BRCA_precision_my_gene_predictor_A",
-        "challenge_id": "BRCA",
-        "community_id": "TCGA",
-        "metrics": {
-            "metric_id": "precision",
-            "stderr": 0,
-            "value": 0.0330188679245283
-        },
-        "participant_id": "my_gene_predictor",
-        "type": "assessment"
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:e661510d44199aa014e59b7de704ced8b36f3ad236d17998619db03c0c6471ad
+size 670

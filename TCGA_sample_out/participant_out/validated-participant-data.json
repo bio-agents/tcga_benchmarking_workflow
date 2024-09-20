@@ -1,17 +1,3 @@
-{
-    "_id": "TCGA:my_gene_predictor_P",
-    "challenge_id": [
-        "ACC",
-        "BRCA"
-    ],
-    "community_id": "TCGA",
-    "datalink": {
-        "attrs": [
-            "archive"
-        ],
-        "status": "ok",
-        "validation_date": "2021-05-27T01:02:48+00:00"
-    },
-    "participant_id": "my_gene_predictor",
-    "type": "participant"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6da07fbe272bc2ded8eaec006d1307097f6d73e95c0af70f07b4e4ebccc0a92b
+size 354
